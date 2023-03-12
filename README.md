@@ -1,4 +1,5 @@
 Article Sentiment Analysis
+
 This project is a Python program that uses the Scrapy web crawling framework and the TextBlob natural language processing library to 
 perform sentiment analysis on Finance articles. The program takes a user-inputted URL to a  Finance article, extracts the text content 
 of the article using Scrapy selectors, and then uses TextBlob to calculate the sentiment polarity of the article. The sentiment polarity 
