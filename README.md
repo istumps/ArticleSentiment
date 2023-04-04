@@ -35,6 +35,6 @@ Done.]
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+Acknowledgments:
 This project was inspired by the Scrapy and TextBlob documentation, as well as the many tutorials and examples available online.
 
